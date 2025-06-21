@@ -10,11 +10,7 @@
 ### 2. Environment Variables
 Set these in your Vercel dashboard:
 
-\`\`\`
-DATABASE_URL=postgresql://neondb_owner:npg_pJDti4UoV0LO@ep-snowy-term-a9na0ox8-pooler.gwc.azure.neon.tech/neondb?sslmode=require
-JWT_SECRET=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
-OPENAI_API_KEY=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
-\`\`\`
+
 
 ### 3. Deploy Steps
 
